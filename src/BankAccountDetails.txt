@@ -1,0 +1,5 @@
+accountNumber,password,type,limit,balance,interestRate
+11234,1234,savings,1000,12000,0.020f
+21234,1234,cheque,9999999,1500,0
+31234,1234,netsaver,1000,20000,0.03f
+41234,1234,fixed,99999999,5000,0.1f
